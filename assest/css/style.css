@@ -1,0 +1,21 @@
+.h1 {
+  text-align: center;
+}
+.aboutme {
+  text-align: center;
+}
+.p_title {
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 21px;
+}
+.button {
+  background-color: #f8f9fa;
+  color: #212529;
+  width: 112.71px;
+  height: 40px;
+  box-sizing: content-box;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
